@@ -1,0 +1,1 @@
+# D2-PythonDe-iskenlerveVeriTipleri.ipynb
